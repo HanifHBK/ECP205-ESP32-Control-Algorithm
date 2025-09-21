@@ -26,11 +26,8 @@ The work is structured in three phases:
 
 ## Repository Structure
 .
-├── docs/ # Documentation and references (e.g., ECP205 Lab Manual)
-├── simulink_models/ # Simulink models of the plant and control algorithms
+├── figures/ # Documentation and references (e.g., ECP205 Lab Manual)
 ├── legacy_dsp/ # Analysis of original DSP algorithms
-├── esp32/ # Simulink-generated code and deployment scripts for ESP32
-├── results/ # Simulation results and profiling data
 └── README.md # Project description
 
 ---
