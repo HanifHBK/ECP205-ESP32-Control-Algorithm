@@ -24,14 +24,6 @@ The work is structured in three phases:
 
 ---
 
-## Repository Structure
-.
-├── figures/ # Documentation and references (e.g., ECP205 Lab Manual)
-├── legacy_dsp/ # Analysis of original DSP algorithms
-└── README.md # Project description
-
----
-
 ## Hardware & References
 - **Plant**: ECP-205 Torsional Control System (multi-disk torsional dynamics)  
 - **Actuator**: BLH-S1-4/15 driver, torque constant 0.0865 Nm/A  
