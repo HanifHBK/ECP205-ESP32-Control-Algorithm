@@ -38,4 +38,4 @@ You can see "Torsional System Algorithm Developer.pdf" to get some insight on ho
 
 ## Acknowledgment
 
-This work was developed as part of Mechatronics Lecture Project by Muhammad Hanif Hibatullah.
+This work was developed as part of Mechatronics Course Final Project by Muhammad Hanif Hibatullah.
