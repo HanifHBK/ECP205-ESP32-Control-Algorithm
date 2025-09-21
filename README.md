@@ -33,13 +33,9 @@ The work is structured in three phases:
 
 ---
 
-## Example Figures
-To improve clarity, it is recommended to include the following figures:
-- Block diagram of the torsional system and controller (place in `/figures`)  
-- Simulink block diagrams of legacy and rewritten algorithms  
-- Example simulation plots (open-loop and closed-loop responses)  
-- Profiling report comparison between DSP and ESP32  
+## Presentation
+You can see "Torsional System Algorithm Developer.pdf" to get some insight on how to build the project (but it's in Indonesian)
 
 ## Acknowledgment
 
-This work was developed as part of control system research and laboratory implementation by Muhammad Hanif Hibatullah.
+This work was developed as part of Mechatronics Lecture Project by Muhammad Hanif Hibatullah.
